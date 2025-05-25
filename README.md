@@ -6,16 +6,16 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ## Table of Contents
 
-- [Compression Tools](#compression-tools)
-- [Text & File Management](#text--file-management)
-- [Browsers & Adblockers](#browsers--adblockers)
-- [Communication](#communication)
-- [Download Managers](#download-managers)
-- [Media & Multimedia](#media--multimedia)
-- [System Tools](#system-tools)
-- [Memory & Performance Tools](#memory--performance-tools)
-- [Privacy & Alternatives](#privacy--alternatives)
-- [Streaming & Recording](#streaming--recording)
+- [🗜️ Compression Tools](#%EF%B8%8F-compression-tools)
+- [📝 Text & File Management](#-text--file-management)
+- [🌐 Browsers & Adblockers](#-browsers--adblockers)
+- [📡 Communication](#-communication)
+- [📥 Download Managers](#-download-managers)
+- [🎥 Media & Multimedia](#-media--multimedia)
+- [🔧 System Tools](#-system-tools)
+- [🧠 Memory & Performance Tools](#-memory--performance-tools)
+- [🔐 Privacy & Alternatives](#-privacy--alternatives)
+- [🎮 Streaming & Recording](#-streaming--recording)
 
 ---
 
