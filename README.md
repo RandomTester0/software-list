@@ -61,6 +61,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [MPC-HC](https://github.com/clsid2/mpc-hc/) – A lightweight, open-source media player for Windows.
 - [FlameShot](https://flameshot.org/) – A powerful, customizable screenshot tool.
 - [Tenacity](https://tenacityaudio.org/) – A free, open-source, and community-driven fork of Audacity for audio editing.
+- [Foobar2000](https://www.foobar2000.org/) - A great open-source audio player.
 
 ---
 
