@@ -4,19 +4,6 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ---
 
-## 📚 Table of Contents
-
-- [🗜️ Compression Tools](#🗜️-compression-tools)
-- [📝 Text & File Management](#📝-text--file-management)
-- [🌐 Browsers & Adblockers](#🌐-browsers--adblockers)
-- [📡 Communication](#📡-communication)
-- [📥 Download Managers](#📥-download-managers)
-- [🔧 System Tools](#🔧-system-tools)
-- [🧠 Memory & Performance Tools](#🧠-memory--performance-tools)
-- [🔐 Privacy & Alternatives](#🔐-privacy--alternatives)
-
----
-
 ## 🗜️ Compression Tools
 
 - [7-Zip](https://www.7-zip.org/) – Open-source compression utility.
