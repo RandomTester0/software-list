@@ -15,6 +15,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 - [Notepad++](https://notepad-plus-plus.org/) – Advanced notepad replacement.
 - [WizTree](https://diskanalyzer.com/) – Visualize disk usage; faster than WinDirStat.
+- [Everything](https://www.voidtools.com/) – A fast file search tool for Windows that indexes your hard drives and enables instant file searches.
 
 ---
 
@@ -40,10 +41,18 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ---
 
+## 🎥 Media & Multimedia
+
+- [VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
+- [MPC-HC](https://github.com/clsid2/mpc-hc/) – A lightweight, open-source media player for Windows.
+
+---
+
 ## 🔧 System Tools
 
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Useful system tools by Microsoft.
 - [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) – Custom NVIDIA driver installer.
+- [Revo Uninstaller](https://www.revouninstaller.com/) – A comprehensive uninstaller for Windows that helps remove programs completely.
 
 ---
 
@@ -58,5 +67,11 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [Proton Suite](https://proton.me/) – Alternatives to Google: Mail, VPN, Password Manager, Cloud Storage, and more.
 - [DuckDuckGo](https://duckduckgo.com/) – Privacy-first search engine.
 - [SearX](https://searx.space/) – Meta search engine that doesn’t track you.
+
+---
+
+## 🎮 Streaming & Recording
+
+- [OBS Studio](https://obsproject.com/) – Open-source software for video recording and live streaming.
 
 ---
