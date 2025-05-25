@@ -32,7 +32,6 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [Everything](https://www.voidtools.com/) – A fast file search tool for Windows that indexes your hard drives and enables instant file searches.
 - [File Converter](https://file-converter.io/) – An online service to quickly convert files between different formats.
 - [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
-- [AB Download Manager](https://abdownloadmanager.com/) - Another download manager, this one has browser integration.
 
 ---
 
@@ -43,7 +42,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) – Efficient ad and content blocker. *(For base Firefox, consider adding [this filter list](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) to enhance link shortener detection.)*
 - [BetterBird](https://betterbird.eu/) – A privacy-focused, enhanced fork of Thunderbird email client.
 - [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
-- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/) – Paid, feature-rich download accelerator.
+- [AB Download Manager](https://abdownloadmanager.com/) - Another download manager, this one has browser integration.
 
 ---
 
