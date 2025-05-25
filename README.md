@@ -8,9 +8,8 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 - [🗜️ Compression Tools](#%EF%B8%8F-compression-tools)
 - [📝 Text & File Management](#-text--file-management)
-- [🌐 Browsers & Adblockers](#-browsers--adblockers)
+- [🌐 Internet](#-internet)
 - [📡 Communication](#-communication)
-- [📥 Download Managers](#-download-managers)
 - [🎥 Media & Multimedia](#-media--multimedia)
 - [🔧 System Tools](#-system-tools)
 - [🧠 Memory & Performance Tools](#-memory--performance-tools)
@@ -31,14 +30,20 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [Notepad++](https://notepad-plus-plus.org/) – Advanced notepad replacement.
 - [WizTree](https://diskanalyzer.com/) – Visualize disk usage; faster than WinDirStat.
 - [Everything](https://www.voidtools.com/) – A fast file search tool for Windows that indexes your hard drives and enables instant file searches.
+- [File Converter](https://file-converter.io/) – An online service to quickly convert files between different formats.
+- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
+- [AB Download Manager](https://abdownloadmanager.com/) - Another download manager, this one has browser integration.
 
 ---
 
-## 🌐 Browsers & Adblockers
+## 🌐 Internet
 
 - [Firefox](https://www.mozilla.org/firefox/) – Open-source web browser.
 - [LibreWolf](https://librewolf.net/) – Firefox fork focused on privacy.
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) – Efficient ad and content blocker. *(For base Firefox, consider adding [this filter list](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) to enhance link shortener detection.)*
+- [BetterBird](https://betterbird.eu/) – A privacy-focused, enhanced fork of Thunderbird email client.
+- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
+- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/) – Paid, feature-rich download accelerator.
 
 ---
 
@@ -49,17 +54,13 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ---
 
-## 📥 Download Managers
-
-- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
-- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/) – Paid, feature-rich download accelerator.
-
----
 
 ## 🎥 Media & Multimedia
 
 - [VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
 - [MPC-HC](https://github.com/clsid2/mpc-hc/) – A lightweight, open-source media player for Windows.
+- [FlameShot](https://flameshot.org/) – A powerful, customizable screenshot tool.
+- [Tenacity](https://tenacityaudio.org/) – A free, open-source, and community-driven fork of Audacity for audio editing.
 
 ---
 
@@ -67,7 +68,9 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Useful system tools by Microsoft.
 - [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) – Custom NVIDIA driver installer.
-- [Revo Uninstaller](https://www.revouninstaller.com/) – A comprehensive uninstaller for Windows that helps remove programs completely.
+- [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) – A comprehensive uninstaller for Windows that helps remove programs completely.
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner) – GPU overclocking and monitoring tool for optimizing gaming performance.
+- [Steam](https://store.steampowered.com/) – The most popular PC gaming platform for purchasing and playing games.
 
 ---
 
