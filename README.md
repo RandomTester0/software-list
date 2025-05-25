@@ -20,7 +20,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 ## 🗜️ Compression Tools
 
 - [7-Zip](https://www.7-zip.org/) – Open-source compression utility.
-- [NanaZip](https://github.com/M2Team/NanaZip) – A modern fork of 7-Zip with Windows Store integration.
+- [NanaZip](https://github.com/M2Team/NanaZip) – A modern fork of 7-Zip with closer feel of Windows Explorer.
 
 ---
 
